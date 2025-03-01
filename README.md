@@ -8,15 +8,15 @@
 
 <p align="center">
   <a href="https://t.me/yourtelegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white&labelColor=26A5E4" height="40">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white&labelColor=26A5E4" height="30">
   </a>
    &nbsp;
   <a href="mailto:svitlana.lightbeam@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335" height="40">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335" height="30">
   </a>
    &nbsp;
   <a href="https://www.linkedin.com/in/svitlana-miroshnychenko-12659a2b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-45B6F2?style=flat&logo=logmein&logoColor=white&labelColor=45B6F2" height="40">
+    <img src="https://img.shields.io/badge/LinkedIn-45B6F2?style=flat&logo=logmein&logoColor=white&labelColor=45B6F2" height="30">
   </a>
 </p>
 
